@@ -19,9 +19,6 @@ This repository is provided solely for peer-review purposes and remains **privat
 - **UP_2/**  
   Updated model using sequential data assimilation (UM2).
 
-- **Visualization/**  
-  Scripts for visualizing results and generating figures.
-
 ---
 
 ## 🛠 Requirements
