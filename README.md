@@ -1,37 +1,47 @@
-Permafrost Digital Twin (Review Version)
-This repository contains the code used in the study:
-"Physics-Informed Digital Twin for Predicting Permafrost Thermodynamic Characteristics under an Embankment Road in Utqiaġvik, Alaska"
+# Permafrost Digital Twin (Review Version)
 
-The code implements a Differentiable Modeling (DM)-based digital twin framework for permafrost temperature prediction, parameter inversion, and thermodynamic property estimation.
-This repository is provided solely for peer-review purposes and remains private.
+This repository contains the code used in the study:  
+**"Physics-Informed Digital Twin for Predicting Permafrost Thermodynamic Characteristics under an Embankment Road in Utqiaġvik, Alaska"**
 
+The code implements a **Differentiable Modeling (DM)**-based digital twin framework for permafrost temperature prediction, parameter inversion, and thermodynamic property estimation.  
+This repository is provided solely for peer-review purposes and remains **private**.
 
-📂 Repository Structure
-BS_model/
-Baseline model (BM) implementation, based on differentiable modeling.
+---
 
-UP_1/
-Updated model using sequential data assimilation (UM1).
+## 📂 Repository Structure
 
-UP_2/
-Updated model using sequential data assimilation (UM2).
+- **BS_model/**  
+  Baseline model (BM) implementation, based on differentiable modeling.
 
-Visualization/
-Scripts for visualizing results and generating figures.
+- **UP_1/**  
+  Updated model using sequential data assimilation (UM1).
 
+- **UP_2/**  
+  Updated model using sequential data assimilation (UM2).
 
-🔧 Requirements
-Python 3.9+
-Required packages: numpy, pandas, matplotlib, scipy, torch, jupyter 
+- **Visualization/**  
+  Scripts for visualizing results and generating figures.
 
+---
 
-▶️ How to Run
-Download the repository
-Click the green Code button → Download ZIP → unzip to a local folder.
-Run Jupyter Notebooks
+## 🛠 Requirements
 
+- Python 3.9+  
+- Required packages: `numpy`, `pandas`, `matplotlib`, `scipy`, `torch`, `jupyter`
 
-📄 Notes
-All code and data are for review purposes only.
-Please do not redistribute without permission from the authors.
-The code may require specific input datasets (DTS, DAS, laboratory measurements) which are included here only for peer-review purposes.
+---
+
+## ▶ How to Run
+
+1. Download the repository: Click the green **Code** button → **Download ZIP**  
+2. Unzip to a local folder.  
+3. Run Jupyter Notebooks in the respective folders.  
+
+---
+
+## 📄 Notes
+
+- All code and data are for **review purposes only**.  
+- Please do not redistribute without permission from the authors.  
+- The code may require specific input datasets (DTS, DAS, laboratory measurements), which are included here only for peer-review purposes.
+
