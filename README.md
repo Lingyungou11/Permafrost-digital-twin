@@ -35,9 +35,22 @@ The code implements a **Differentiable Modeling (DM)**-based digital twin framew
 
 ---
 
+## 📌 Citation
+
+If you use this code, please cite:
+
+Gou, L., M. Xiao*, T. Zhu, E. Martin, Z. Wang, G. Santos, D. Nicolsky, and X. Ji. 2026. Physics-Informed Digital Twins for Predicting Arctic Permafrost Thermodynamics. Journal of Geophysical Research: Earth Surface, Under
+Review.
+
+---
+
 ## 📄 Notes
 
-- All code and data are for **review purposes only**.  
 - Please do not redistribute without permission from the authors.  
 - The code may require specific input datasets (DTS, DAS, laboratory measurements), which are included here only for peer-review purposes.
+
+---
+
+## License
+This project is licensed under the MIT License.
 
