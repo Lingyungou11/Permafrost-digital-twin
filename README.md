@@ -4,7 +4,6 @@ This repository contains the code used in the study:
 **"Physics-Informed Digital Twin for Predicting Permafrost Thermodynamic Characteristics under an Embankment Road in Utqiaġvik, Alaska"**
 
 The code implements a **Differentiable Modeling (DM)**-based digital twin framework for permafrost temperature prediction, parameter inversion, and thermodynamic property estimation.  
-This repository is provided solely for peer-review purposes and remains **private**.
 
 ---
 
