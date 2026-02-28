@@ -1,4 +1,4 @@
-# Permafrost Digital Twin (Review Version)
+# Permafrost Digital Twin
 
 This repository contains the code used in the study:  
 **"Physics-Informed Digital Twin for Predicting Permafrost Thermodynamic Characteristics under an Embankment Road in Utqiaġvik, Alaska"**
